@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+  "appTitle": "Telugu Calendar",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "goodMorning": "Good Morning!",
+  "@goodMorning": {
+    "description": "Morning greeting"
+  },
+  "teluguCalendar": "Telugu Calendar",
+  "@teluguCalendar": {
+    "description": "App name in header"
+  },
+  "calendar": "Calendar",
+  "@calendar": {
+    "description": "Calendar quick link"
+  },
+  "holidays": "Holidays",
+  "@holidays": {
+    "description": "Holidays quick link"
+  },
+  "festivals": "Festivals",
+  "@festivals": {
+    "description": "Festivals quick link"
+  },
+  "rasipalalu": "Rasipalalu",
+  "@rasipalalu": {
+    "description": "Horoscope quick link"
+  },
+  "todayPanchang": "Today's Panchang",
+  "@todayPanchang": {
+    "description": "Today's Panchang section title"
+  },
+  "sunrise": "Sun Rise",
+  "@sunrise": {
+    "description": "Sunrise label"
+  },
+  "sunset": "Sun Set",
+  "@sunset": {
+    "description": "Sunset label"
+  },
+  "moonrise": "Moonrise",
+  "@moonrise": {
+    "description": "Moonrise label"
+  },
+  "moonset": "Moonset",
+  "@moonset": {
+    "description": "Moonset label"
+  },
+  "panchangamDetails": "Panchangam Details",
+  "@panchangamDetails": {
+    "description": "Panchangam details section title"
+  },
+  "tithi": "Tithi",
+  "@tithi": {
+    "description": "Tithi label"
+  },
+  "nakshatram": "Nakshatram",
+  "@nakshatram": {
+    "description": "Nakshatram label"
+  },
+  "arambham": "Arambham",
+  "@arambham": {
+    "description": "Start time label"
+  },
+  "samapti": "Samapti",
+  "@samapti": {
+    "description": "End time label"
+  },
+  "auspiciousTimings": "Auspicious Timings",
+  "@auspiciousTimings": {
+    "description": "Auspicious timings section title"
+  },
+  "rahukalam": "Rahukalam",
+  "@rahukalam": {
+    "description": "Rahukalam timing"
+  },
+  "yamagandam": "Yamagandam",
+  "@yamagandam": {
+    "description": "Yamagandam timing"
+  },
+  "varjyam": "Varjyam",
+  "@varjyam": {
+    "description": "Varjyam timing"
+  },
+  "durmuhurtam": "Durmuhurtam",
+  "@durmuhurtam": {
+    "description": "Durmuhurtam timing"
+  },
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+  "home": "Home",
+  "calendarPage": "Calendar",
+  "festivalsPage": "Festivals",
+  "horoscopePage": "Horoscope"
+}
+
